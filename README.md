@@ -27,7 +27,7 @@ Hier dreht sich alles um **Python**, **Programmierung** und **Künstliche Intell
 
 [![Discord](https://img.shields.io/badge/Discord-KirasHome-blue?logo=discord)](https://discord.gg/deinlink)
 [![Twitter](https://img.shields.io/badge/Twitter-@KirasHome-1da1f2?logo=twitter)](https://twitter.com/deinprofil)
-[![YouTube](https://img.shields.io/badge/YouTube-KirasHome-red?logo=youtube)](https://youtube.com/deinlink)
+[![YouTube](https://img.shields.io/badge/YouTube-KirasHome-red?logo=youtube)](https://www.youtube.com/channel/UCArJCWTm9Db6CeUDZVCnE_g)
 
 ---
 

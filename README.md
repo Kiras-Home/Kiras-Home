@@ -1,4 +1,4 @@
-# 👋 Hi, ich bin Kiras-Home!
+# 👋 Hi, ich bin Kiras-Home(Astro)!
 
 Willkommen auf meinem GitHub-Profil!  
 Hier dreht sich alles um **Python**, **Programmierung** und **Künstliche Intelligenz**.
@@ -21,11 +21,11 @@ Hier dreht sich alles um **Python**, **Programmierung** und **Künstliche Intell
 
 ### [Kira – Persönlicher KI-Assistent](#)
 > Kira ist ein smarter, persönlicher Assistent, der lokal auf deinem Server läuft. Keine Cloud, keine Datenweitergabe – volle Kontrolle und Privatsphäre!  
-> Ziel: Einfache Integration in deinen Alltag und maximale Anpassbarkeit.
+> Ziel: Einfache Integration in deinen Alltag und maximale Anpassbarkeit, komplexes Speicher system für ein Simuliertes gedächtnis.
 
 ## 📫 Finde & folge mir
 
-[![Discord](https://img.shields.io/badge/Discord-KirasHome-blue?logo=discord)](https://discord.gg/deinlink)
+[![Discord](https://img.shields.io/badge/Discord-KirasHome-blue?logo=discord)](https://discord.gg/FaxZwQCzpZ))
 [![Twitter](https://img.shields.io/badge/Twitter-@KirasHome-1da1f2?logo=twitter)](https://twitter.com/deinprofil)
 [![YouTube](https://img.shields.io/badge/YouTube-KirasHome-red?logo=youtube)](https://www.youtube.com/channel/UCArJCWTm9Db6CeUDZVCnE_g)
 
